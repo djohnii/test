@@ -2,8 +2,10 @@
 data
 fenix
 test
+<<<<<<< HEAD
+=======
 [server]
 ip 10.12.1.1.
 gw 10.11.1.1
 dns 1.1.1.1
-
+>>>>>>> interface-server
