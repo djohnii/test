@@ -1,3 +1,4 @@
 ip 10.101.1.
 dns ya.ru
 gt 1.10.100.1
+description none
