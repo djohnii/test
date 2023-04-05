@@ -1,0 +1,6 @@
+[client]
+ip : 10.120.1.120
+gateway: 10.120.1.1
+service: nginx, phenix
+
+
